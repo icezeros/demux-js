@@ -13,4 +13,4 @@ examples/**/package-lock.json
 # Editor files
 .idea/
 
-dist/
+# dist/
